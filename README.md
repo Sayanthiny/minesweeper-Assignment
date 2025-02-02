@@ -3,7 +3,7 @@ To run this application, the following system requirements and environment setup
 
 Operating System Compatibility
   
-Windows 10
+  Windows 10
 
 Software Requirements
 
