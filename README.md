@@ -9,6 +9,6 @@ Software Requirements
 
   Java Development Kit (JDK): Version 17 or higher
   
-  IDE (Optional but Recommended): IntelliJ IDEA
+  IDE: IntelliJ IDEA
   
-  Build Tool (if required): Maven
+  Build Tool: Maven
