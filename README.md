@@ -1,6 +1,6 @@
 # MineSweeperProblemApplication
 
-## Requirments to run this application
+## Requirements to run this application
 Ensure you have the following installed before proceeding:
 - **Java Development Kit (JDK) 17** or later
 - **Maven** (for dependency management and build process)
